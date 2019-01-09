@@ -1,5 +1,7 @@
 # Time Spent
 
+![](https://img.shields.io/github/stars/xrr2016/time-spent.svg?style=popout-square) ![](https://img.shields.io/github/forks/xrr2016/time-spent.svg?style=popout-square) ![](https://img.shields.io/github/license/xrr2016/time-spent.svg?style=popout-square)
+
 > Display past time on the terminal.
 
 ![](./assets/demo.jpg)
