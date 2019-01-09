@@ -1,12 +1,13 @@
 {
-  "name": "time-spent",
+  "name": "days-spent",
   "version": "0.1.0",
-  "description": "Display past time on the terminal.",
+  "description": "Display past days on the terminal.",
   "bin": {
-    "tp": ".bin/time-spent.js"
+    "ds": ".bin/days-spent.js"
   },
   "keywords": [
-    "time",
+    "day",
+    "spent",
     "cli"
   ],
   "author": "xrr2016",

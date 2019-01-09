@@ -1,29 +1,29 @@
-# Time Spent
+# Days Spent
 
-![](https://img.shields.io/github/stars/xrr2016/time-spent.svg?style=popout-square) ![](https://img.shields.io/github/forks/xrr2016/time-spent.svg?style=popout-square) ![](https://img.shields.io/github/license/xrr2016/time-spent.svg?style=popout-square)
+![](https://img.shields.io/github/issues/xrr2016/days-spent.svg?style=popout-square) ![](https://img.shields.io/github/forks/xrr2016/days-spent.svg?style=popout-square) ![](https://img.shields.io/github/stars/xrr2016/days-spent.svg?style=popout-square)
 
-> Display past time on the terminal.
+> Display past days on the terminal.
 
 ![](./assets/demo.jpg)
 
 ## Install
 
 ```sh
-npm install time-spent -g
+npm install days-spent -g
 ```
 
 ## Usage
 
 ```sh
-tp     # show current year
+ds     # show current year
 ```
 
 ```sh
-tp m   # show current month
+ds m   # show current month
 ```
 
 ```sh
-tp w   # show current week
+ds w   # show current week
 ```
 
 ## Develop
@@ -34,7 +34,7 @@ npm install
 
 ## Contributing
 
-1. Fork it (<https://github.com/xrr2016/time-spent/fork>)
+1. Fork it (<https://github.com/xrr2016/days-spent.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
