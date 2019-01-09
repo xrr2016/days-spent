@@ -1,0 +1,19 @@
+{
+  "name": "time-spent",
+  "version": "0.1.0",
+  "description": "Display past time on the terminal.",
+  "bin": {
+    "tp": ".bin/time-spent.js"
+  },
+  "keywords": [
+    "time",
+    "cli"
+  ],
+  "author": "xrr2016",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-progress": "^2.1.1",
+    "dayjs": "^1.7.8"
+  }
+}
